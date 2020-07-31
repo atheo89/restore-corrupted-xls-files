@@ -1,5 +1,5 @@
-## Recover corrupted excel files
-Recover corrupted .xls or .xlsx files.
+## Restore corrupted excel files
+Restore corrupted .xls or .xlsx files.
 Corrupt in the sense we are able to view the file in excel, but not using Python. 
 This is the error when you trying to open it through python:
 ```
